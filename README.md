@@ -16,7 +16,7 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <div>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ashwinshenoy&theme=blue-green&hide_border=true" alt="ashwinshenoy-streak-stats" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ashwinshenoy&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="ashwinshenoy-stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ashwinshenoy&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="Anisha Shetty-stats" />
   </div>
   <div>
     <img align="right" src="https://via.placeholder.com/300x300.png?text=Image+Placeholder" alt="coding-image" width="300" />
