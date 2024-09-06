@@ -19,7 +19,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anishashettty&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="Anisha Shetty-stats" />
   </div>
   <div>
-    <img align="right" src="https://via.placeholder.com/300x300.png?text=Image+Placeholder" alt="coding-image" width="300" />
+    
   </div>
 </div>
 
