@@ -19,7 +19,9 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Anishashettty&theme=blue-green&hide_border=true" alt="Anisha Shetty's Streak Stats" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anishashettty&count_private=true&show_icons=true&hide_border=true&theme=blue-green" alt="Anisha Shetty's GitHub Stats" />
+    
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishashettty&" alt="anishashettty" />
     </td>
   </tr>
 </table>
